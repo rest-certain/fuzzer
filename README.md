@@ -4,11 +4,6 @@
     <strong>A testing utility for generating valid and invalid API request data.</strong>
 </p>
 
-<!--
-TODO: Make sure the following URLs are correct and working for your project.
-      Then, remove these comments to display the badges, giving users a quick
-      overview of your package.
-
 <p align="center">
     <a href="https://github.com/rest-certain/fuzzer"><img src="https://img.shields.io/badge/source-rest--certain/fuzzer-blue.svg?style=flat-square" alt="Source Code"></a>
     <a href="https://packagist.org/packages/rest-certain/fuzzer"><img src="https://img.shields.io/packagist/v/rest-certain/fuzzer.svg?style=flat-square&label=release" alt="Download Package"></a>
@@ -17,7 +12,6 @@ TODO: Make sure the following URLs are correct and working for your project.
     <a href="https://github.com/rest-certain/fuzzer/actions/workflows/continuous-integration.yml"><img src="https://img.shields.io/github/actions/workflow/status/rest-certain/fuzzer/continuous-integration.yml?branch=main&style=flat-square&logo=github" alt="Build Status"></a>
     <a href="https://codecov.io/gh/rest-certain/fuzzer"><img src="https://img.shields.io/codecov/c/gh/rest-certain/fuzzer?label=codecov&logo=codecov&style=flat-square" alt="Codecov Code Coverage"></a>
 </p>
--->
 
 ## About
 
