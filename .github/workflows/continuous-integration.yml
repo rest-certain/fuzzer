@@ -87,9 +87,9 @@ jobs:
         run: "composer dev:test:coverage:ci"
 
       - name: "Publish coverage report to Codecov"
-        uses: "codecov/codecov-action@v5"
+        uses: "codecov/codecov-action@v7"
       - name: "Publish coverage report to Codecov"
-        uses: "codecov/codecov-action@v5"
+        uses: "codecov/codecov-action@v7"
         with:
           token: "${{ secrets.CODECOV_TOKEN }}"
 
